@@ -1,80 +1,73 @@
 <div align="center">
   <!-- Header Banner -->
   <a href="https://github.com/Somansh25">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=0f0c20&custom_color_2=5c108c&height=200&section=header&text=Hello!%20I'm%20Somansh%20Chauhan&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=twinkling" width="100%" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=0f0c20&custom_color_2=5c108c&height=200&section=header&text=Hello!%20I'm%20Somansh%20Chauhan&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=twinkling" width="100%" alt="Header Banner" />[cite: 1, 2]
   </a>
 
   <br/>
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%26+AI%2FML+Undergraduate;Architecting+SparkMarg+%7C+Career+Simulation+Platform;Building+Cyphra%2C+GridNexus+%26+CaptionNexus;Transforming+algorithms+%26+ideas+into+clean+code" alt="Typing Headlines" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineer;AI+%26+ML+Undergraduate+%40+YCCE;Architecting+SparkMarg%2C+Cyphra+%26+GridNexus;Transforming+complex+algorithms+into+clean+code" alt="Typing Headlines" />[cite: 1, 2]
   </a>
 
   <br/><br/>
 
   <!-- Academic & Location Badges -->
-  <img src="https://img.shields.io/badge/Academic-B.Tech%20CSE%20(AI%26ML)%20%7C%20YCCE%20Nagpur-7B2CBF?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Nagpur%20%2F%20Gondia%2C%20MH%2C%20India-5C108C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Academic-B.Tech%20CSE%20(AI%26ML)%20%7C%20YCCE%20Nagpur-7B2CBF?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Academic Badge" />[cite: 1]
+  <img src="https://img.shields.io/badge/Location-Nagpur%20%2F%20Gondia%2C%20MH%2C%20India-5C108C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />[cite: 1]
 
   <br/><br/>
 
-  <!-- Quick Contact Badges -->
-  <a href="https://github.com/Somansh25"><img src="https://img.shields.io/badge/Portfolio-Visit%20Platform-3C096C?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/somanshchauhan"><img src="https://img.shields.io/badge/LinkedIn-Somansh%20Chauhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:somanshch875@gmail.com"><img src="https://img.shields.io/badge/Email-somanshch875%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Somansh25"><img src="https://img.shields.io/badge/GitHub-Somansh25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-  <br/><br/>
-
-  <!-- Metrics Badges -->
-  <img src="https://komarev.com/ghpvc/?username=Somansh25&color=7b2cbf&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Somansh25?style=for-the-badge&color=9d4edd&label=FOLLOWERS" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Somansh25?style=for-the-badge&color=c77dff&label=STARS" alt="Stars"/>
+  <!-- Quick Contact Links -->
+  <a href="https://github.com/Somansh25"><img src="https://img.shields.io/badge/Portfolio-Visit%20Platform-3C096C?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>[cite: 1, 2]
+  <a href="https://linkedin.com/in/somanshchauhan"><img src="https://img.shields.io/badge/LinkedIn-Somansh%20Chauhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>[cite: 1, 2]
+  <a href="mailto:somanshch875@gmail.com"><img src="https://img.shields.io/badge/Email-somanshch875%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>[cite: 1, 2]
+  <a href="https://github.com/Somansh25"><img src="https://img.shields.io/badge/GitHub-Somansh25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>[cite: 1, 2]
 </div>
 
 ---
 
 ## 🚀 About Me
 
-Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning** at **YCCE Nagpur**. Passionate about architecting scalable full-stack web applications, exploring predictive models, and crafting clean, maintainable software systems.
+Full-Stack Software Engineer and **Computer Science (AI & ML)** undergraduate student at **Yeshwantrao Chavan College of Engineering (YCCE), Nagpur**[cite: 1, 2]. Specialized in engineering production-ready web platforms, high-throughput REST backend services, and applied artificial intelligence models[cite: 1, 2].
 
-* 🔭 **Currently Working On:** **SparkMarg** (AI-driven career simulation engine) alongside **Cyphra**, **GridNexus**, and **CaptionNexus**
-* 🌱 **Currently Learning:** Deep Learning architectures, LSTM models, financial econometrics, and enterprise system design
-* ⚡ **Core Focus:** Bridging full-stack software engineering (React.js, Flask, MySQL) with machine learning pipelines
-* 🏛️ **Leadership:** Serving as **Class Representative (CR)** for the AIML department, liaising operations for 80+ peers and organizing events for 260+ participants
+* 🔭 **Currently Building:** **SparkMarg** (AI-driven career simulation platform) alongside intelligent web software **Cyphra**, **GridNexus**, and **CaptionNexus**[cite: 1, 2]
+* 🌱 **Currently Deepening:** Deep Learning architectures (LSTM, CNN), predictive financial econometrics, and scalable microservice design[cite: 2]
+* ⚡ **Engineering Core:** Bridging full-stack development (React.js, Flask, MySQL) with machine learning pipelines and clean state architecture[cite: 1, 2]
+* 🏛️ **Leadership & Impact:** Serving as **Class Representative (CR)** for the AIML department, directing academic coordination for 80+ peers and managing technical events for 260+ attendees[cite: 1]
 
-> **Open To:** Enterprise Software Engineering Internships (Full-Stack / AI & ML), Open-Source Collaborations, and Technical Product Development.
+> **Open To:** Enterprise Software Engineering Internships (Full-Stack / AI & ML), High-Impact Open-Source Collaborations, and System Architecture Projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
+### 💻 Languages & Web Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />[cite: 1, 2]
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />[cite: 1, 2]
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />[cite: 1, 2]
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />[cite: 1, 2]
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />[cite: 1, 2]
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />[cite: 1, 2]
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />[cite: 1]
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />[cite: 1, 2]
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />[cite: 2]
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />[cite: 1, 2]
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />[cite: 1, 2]
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />[cite: 1, 2]
 </p>
 
-### ⚙️ Databases & DevOps Tools
+### ⚙️ Databases, Cloud & Tooling
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />[cite: 1, 2]
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />[cite: 2]
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />[cite: 1]
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />[cite: 1, 2]
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />[cite: 1]
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />[cite: 1]
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />[cite: 1, 2]
 </p>
 
 ### 🧰 Skill Matrix
@@ -90,10 +83,10 @@ Computer Science undergraduate specializing in **Artificial Intelligence & Machi
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Generative AI Integration** | Advanced | Implementation of generative workflows, prompt frameworks, and Java-based GenAI tooling. |
-| **Predictive Modeling & ML** | Intermediate | Time-series forecasting (LSTM, CNN, Random Forest), financial econometrics, and data pipelines. |
-| **Data Structures & Algorithms** | Advanced | Algorithmic optimization and computational problem solving in C++, Java, and Python. |
-| **Data Processing & Analytics** | Intermediate | Preprocessing pipelines, statistical modeling, and dataset manipulation in Python. |
+| **Generative AI Integration** | Advanced | Designing generative agent workflows, prompt optimization frameworks, and Java-integrated GenAI applications[cite: 1]. |
+| **Predictive Modeling & ML** | Intermediate | Time-series forecasting (LSTM, CNN, Random Forest), financial econometrics, and automated data pipelines[cite: 2]. |
+| **Data Structures & Algorithms** | Advanced | Computational problem-solving, algorithm optimization, and object-oriented design in C++, Java, and Python[cite: 1]. |
+| **Data Analytics & Processing** | Intermediate | Statistical modeling, dataset preprocessing, and automated visual analytics using Python data libraries[cite: 1]. |
 
 ---
 
@@ -103,14 +96,14 @@ Computer Science undergraduate specializing in **Artificial Intelligence & Machi
 <summary><b>🔥 SparkMarg - Full-Stack Career Simulation Platform</b></summary>
 <br/>
 
-**Description:** An interactive "Career Test Drive" platform allowing users to simulate professional role workflows via task-based prototypes, addressing static career guidance limitations.
+**Description:** An interactive "Career Test Drive" engine enabling candidates to simulate real-world professional role workflows via task-based prototypes[cite: 1].
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| React.js, Python (Flask), SQL, Bootstrap | Interactive role simulation workflows | Fast state transitions with low-latency REST API calls | Endpoint sanitization and parameter security | Replaces static career surveys with interactive practical tasks | [`Somansh25/SparkMarg`](https://github.com/Somansh25) |
+| React.js, Python (Flask), SQL, Bootstrap[cite: 1] | Interactive role simulation engine[cite: 1] | Sub-second REST API response times[cite: 1] | Endpoint parameter sanitization & safe state flow[cite: 1] | Replaces static career guidance with active workflow simulation[cite: 1] | [`Somansh25/SparkMarg`](https://github.com/Somansh25)[cite: 1, 2] |
 
-**Overview:**
-Architected a full-stack platform connecting a React.js interactive frontend to a Python Flask REST API microservice and SQL backend persistence. Designed a clean dark-mode visual interface focused on MVP deployment readiness.
+**Architectural Overview:**
+Designed an end-to-end web application linking a React.js client frontend with a Python Flask REST API backend and SQL persistence layer[cite: 1]. Built modular component architecture with custom dark-mode styling targeting deployable production MVP[cite: 1].
 </details>
 
 <br/>
@@ -119,46 +112,46 @@ Architected a full-stack platform connecting a React.js interactive frontend to 
 <summary><b>💬 Cyphra - Advanced Conversational AI Platform</b></summary>
 <br/>
 
-**Description:** A sophisticated conversational AI web platform featuring state control architecture, fluid navigation, and responsive real-time dialogue interfaces.
+**Description:** A conversational AI web platform featuring structured state control, fluid navigation, and responsive real-time dialogue interfaces.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| React.js, Python (Flask), REST API, CSS3 | Multi-session real-time AI conversation interface | Low-latency streaming response rendering & state synchronization | Token-based session authentication and request parsing | Delivers an intuitive, high-fidelity conversational UX | [`Somansh25/Cyphra`](https://github.com/Somansh25) |
+| React.js, Python (Flask), REST API, CSS3 | Multi-session real-time dialogue interface | Low-latency streaming responses & state sync | Session token verification & payload validation | Delivers an intuitive, dark-themed conversational UX | [`Somansh25/Cyphra`](https://github.com/Somansh25) |
 
-**Overview:**
-Engineered modern client-side state handling and UI layout architectures to support real-time conversational streaming and responsive navigation workflows across desktop and mobile browsers.
+**Architectural Overview:**
+Engineered responsive client-side state handling and UI layout systems to ensure smooth conversational streaming, view transitions, and cross-device interface parity.
 </details>
 
 <br/>
 
 <details>
-<summary><b>🎮 GridNexus - AI-Powered Matrix Strategy & Gaming Platform</b></summary>
+<summary><b>🎮 GridNexus - AI-Powered Matrix Strategy Platform</b></summary>
 <br/>
 
-**Description:** An AI-powered strategy application offering multiple game variants including Classic 3x3, 5x5 Matrix, and 9x9 Ultimate Nexus with adaptive AI opponents and achievement mechanics.
+**Description:** An AI-driven grid strategy platform featuring multiple game variants including Classic 3x3, 5x5 Matrix, and 9x9 Ultimate Nexus with adaptive AI opponents and achievement tracking.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| HTML5, CSS3, JavaScript (ES6+), AI Algorithms | Multi-level game engine (3x3, 5x5, 9x9 Ultimate) | Zero-latency DOM updates and client-side decision trees | Client-side state machine preventing invalid move states | Elevates strategic grid games with adaptive difficulty and achievement systems | [`Somansh25/GridNexus`](https://github.com/Somansh25) |
+| HTML5, CSS3, JavaScript (ES6+), AI Algorithms | Multi-level matrix engine (3x3, 5x5, 9x9) | Zero-latency DOM updates and instant decision cycles | Client-side state machine preventing illegal moves | Enhances grid strategy gameplay with adaptive heuristic difficulty | [`Somansh25/GridNexus`](https://github.com/Somansh25) |
 
-**Overview:**
-Constructed modular game logic routines supporting local multiplayer modes, progressive achievement badges, and heuristic AI decision processing wrapped in a responsive design interface.
+**Architectural Overview:**
+Constructed modular JavaScript game logic supporting local multiplayer execution, progressive achievement badges, and heuristic AI move optimization wrapped in an enterprise dark design.
 </details>
 
 <br/>
 
 <details>
-<summary><b>🖼️ CaptionNexus - AI-Driven Intelligent Image & Media Captioning System</b></summary>
+<summary><b>🖼️ CaptionNexus - AI Intelligent Media Captioning Engine</b></summary>
 <br/>
 
-**Description:** An automated AI platform using computer vision models and natural language processing to extract visual context and generate precise text captions for media assets.
+**Description:** An automated computer vision and NLP microservice that analyzes visual asset features to generate structured context descriptions and text captions.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, PyTorch / ML Models, Flask, REST API | Scalable image batch processing pipeline | High-throughput model inference with optimized GPU/CPU utilization | Secure payload validation and sanitized image handling | Automates metadata creation and image accessibility tagging | [`Somansh25/CaptionNexus`](https://github.com/Somansh25) |
+| Python, PyTorch / ML Models, Flask, REST API | Automated image batch processing engine | Fast model inference and lightweight pipeline processing | Payload validation and sanitized file uploads | Automates metadata generation and image accessibility tagging | [`Somansh25/CaptionNexus`](https://github.com/Somansh25) |
 
-**Overview:**
-Integrated vision-language deep learning models into a lightweight web microservice, generating rich descriptive captions and structured metadata for uploaded visual assets.
+**Architectural Overview:**
+Integrated vision-language deep learning models into a Flask microservice, enabling automatic generation of descriptive captions and metadata tagging for uploaded media files.
 </details>
 
 <br/>
@@ -167,14 +160,14 @@ Integrated vision-language deep learning models into a lightweight web microserv
 <summary><b>🎬 Anidrift - Scalable Media Distribution Frontend</b></summary>
 <br/>
 
-**Description:** A content-heavy media display gallery engineered with adaptive layout systems and client-side media filtering.
+**Description:** A content-heavy media display gallery engineered with adaptive layout systems and client-side media filtering[cite: 1].
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| HTML5, CSS3, JavaScript (ES6+), Bootstrap | Multi-device layout adapting across all screen viewports | Optimized browser rendering and asset loading | Client-side input validation and safe DOM handling | Smooth, responsive user experience for dense media catalogs | [`Somansh25/Anidrift`](https://github.com/Somansh25) |
+| HTML5, CSS3, JavaScript (ES6+), Bootstrap[cite: 1] | Multi-device layout adapting across all viewports[cite: 1] | Optimized browser asset rendering[cite: 1] | Safe DOM parsing & sanitized event parameters[cite: 1] | Smooth visual browsing experience across high-density media catalogs[cite: 1] | [`Somansh25/Anidrift`](https://github.com/Somansh25)[cite: 1, 2] |
 
-**Overview:**
-Engineered responsive CSS Grid layout architecture adapting fluidly across viewports. Integrated client-side JavaScript event handlers for real-time dynamic filtering and smooth navigation.
+**Architectural Overview:**
+Engineered responsive fluid grid layout architectures[cite: 1]. Implemented client-side JavaScript event handling for real-time dynamic content filtering and high-performance DOM manipulation[cite: 1].
 </details>
 
 <br/>
@@ -183,14 +176,14 @@ Engineered responsive CSS Grid layout architecture adapting fluidly across viewp
 <summary><b>🕹️ Hangman Game - Console-Based Word Game in C++</b></summary>
 <br/>
 
-**Description:** A modular terminal application featuring 6-stage progressive ASCII art rendering and robust input verification.
+**Description:** A modular terminal application featuring 6-stage progressive ASCII art rendering and strict input verification[cite: 1].
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| C++, STL, Strings & Arrays | Lightweight terminal execution binary | Instant output execution with minimal CPU overhead | Strict input sanitization preventing memory anomalies | Practical demonstration of applied DSA and procedural C++ logic | [`Somansh25/Hangman-CPP`](https://github.com/Somansh25) |
+| C++, STL, Strings & Arrays[cite: 1] | Lightweight binary execution[cite: 1] | Immediate execution with minimal memory footprint[cite: 1] | Buffer overflow prevention & strict char validation[cite: 1] | Direct demonstration of applied DSA and procedural C++ logic[cite: 1] | [`Somansh25/Hangman-CPP`](https://github.com/Somansh25)[cite: 1, 2] |
 
-**Overview:**
-Developed modular procedural logic in C++ with dynamic win/loss checks, duplicate guess tracking, case-insensitive logic, and non-alphabetic character rejection.
+**Architectural Overview:**
+Developed modular procedural logic in C++ with dynamic win/loss checks, duplicate guess tracking, case-insensitive logic, and non-alphabetic character rejection[cite: 1].
 </details>
 
 ---
@@ -198,14 +191,14 @@ Developed modular procedural logic in C++ with dynamic win/loss checks, duplicat
 ## 💼 Experience
 
 ### Class Representative & Departmental Liaison
-**YCCE, Nagpur — AIML Department** | *2026 – Present*
+**YCCE, Nagpur — AIML Department** | *2026 – Present*[cite: 1]
 
-* **Academic Coordination:** Serves as the official liaison between faculty and 80+ AIML students, coordinating schedules and academic issue resolution.
-* **Event Administration:** Managed registration and technical operations for seminars and vocational programs with **260+ participants**.
-* **Financial Oversight:** Administered departmental student activity funds with transparent record-keeping.
-* **Skill Development Facilitation:** Coordinated student participation in an intensive 15-day industry workshop on *Java Development with Generative AI*.
+* **Academic Operations:** Primary communication liaison between faculty leadership and 80+ AIML undergraduates, managing schedules and academic escalation workflows[cite: 1].
+* **Event Logistics:** Directed registration, technical operations, and execution for seminars and vocational programs with **260+ participants**[cite: 1].
+* **Financial Governance:** Administered departmental student activity budgets with transparent audit records[cite: 1].
+* **Technical Facilitation:** Coordinated student participation in an intensive 15-day industry workshop on *Java Development with Generative AI*[cite: 1].
 
-`Leadership` `Academic Coordination` `Event Management` `Operations`
+`Leadership` `Academic Operations` `Event Administration` `Logistics`
 
 ---
 
@@ -215,56 +208,21 @@ Developed modular procedural logic in C++ with dynamic win/loss checks, duplicat
 
 | Recognition | Details |
 | :--- | :--- |
-| **NPTEL Elite + Silver** | Ranked in **Top 5% nationally** (79% final score) among 20,403 certified candidates in *The Joy of Computing using Python* (IIT Madras). |
-| **MHT-CET Top Percentile** | Scored **89.92 Percentile**, placing in the Top 3% state-wide in Maharashtra. |
-| **JEE Main Percentile** | Achieved **81.11 Percentile** in national engineering entrance examination. |
-| **CSS Showdown Distinction** | Recognized for frontend engineering and UI execution in ACM Student Chapter competition. |
-| **Cohort Leadership** | Administered digital operations and logistics for a **260+ participant** technical training program. |
+| **NPTEL Elite + Silver Certificate** | Ranked in **Top 5% nationally** (79% score) among 20,403 certified candidates in *The Joy of Computing using Python* (IIT Madras)[cite: 1]. |
+| **MHT-CET State Top Rank** | Scored **89.92 Percentile**, placing in the Top 3% state-wide across Maharashtra[cite: 1]. |
+| **JEE Main Percentile** | Achieved **81.11 Percentile** in national engineering entrance examination[cite: 1]. |
+| **CSS Showdown Distinction** | Recognized for frontend engineering and UI execution in ACM Student Chapter competition[cite: 1]. |
+| **Large-Scale Operations Leadership** | Administered digital infrastructure and logistics for a **260+ participant** technical training program[cite: 1]. |
 
 </div>
-
----
-
-## 📜 Certifications
-
-### AWS
-* ![](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Oracle
-* ![](https://img.shields.io/badge/Oracle-Java%20SE%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### NPTEL
-* ![](https://img.shields.io/badge/NPTEL-Elite%20Silver%20--%20Computing%20Using%20Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white)
-
-### Cisco
-* ![](https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-## ⚡ Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
-  <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Somansh25&show_icons=true&theme=tokyonight&title_color=9d4edd&icon_color=c77dff&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Somansh25&layout=compact&theme=tokyonight&title_color=9d4edd&icon_color=c77dff&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Somansh25&theme=tokyonight&margin-w=15&row=1&column=6&no-bg=true" alt="GitHub Trophies"/>
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Somansh25&show_icons=true&theme=tokyonight&title_color=9d4edd&icon_color=c77dff&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />[cite: 2]
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Somansh25&layout=compact&theme=tokyonight&title_color=9d4edd&icon_color=c77dff&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />[cite: 2]
 </p>
 
 ---
@@ -272,15 +230,7 @@ Developed modular procedural logic in C++ with dynamic win/loss checks, duplicat
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Somansh25&bg_color=00000000&color=9d4edd&line=c77dff&point=e0aaff&area=true&hide_border=true" alt="Contribution Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Somansh25/Somansh25/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Somansh25&bg_color=00000000&color=9d4edd&line=c77dff&point=e0aaff&area=true&hide_border=true" alt="Contribution Activity Graph" />[cite: 2]
 </p>
 
 ---
@@ -290,14 +240,14 @@ Developed modular procedural logic in C++ with dynamic win/loss checks, duplicat
 ```yaml
 status:
   learning:
-    - Deep Learning Models (LSTM, CNN) & Predictive Modeling
-    - Distributed Enterprise Microservices & Scalable System Design
+    - Deep Learning Models (LSTM, CNN) & Financial Econometrics
+    - Enterprise Distributed Microservices & Systems Design
   building:
     - SparkMarg: AI-Driven Interactive Career Simulation Platform
     - Cyphra, GridNexus, & CaptionNexus Applications
   exploring:
     - Generative AI Integration & Agentic Workflows
-    - Cloud Infrastructure & CI/CD Pipelines
+    - Cloud Infrastructure & Deployment Pipelines
   open_to:
     - Software Engineering Internships (Full-Stack / AI & ML)
     - High-Impact Open Source Collaborations
