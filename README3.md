@@ -152,29 +152,22 @@ Terminal application featuring 6-stage progressive ASCII art rendering and input
 ### Class Representative & Departmental Liaison
 **YCCE, Nagpur — AIML Department** | *2026 – Present*
 
-* **Academic Operations:** Primary communication liaison between faculty leadership and 80+ AIML undergraduates, managing schedules and academic escalation workflows.
-* **Event Logistics:** Directed registration, technical operations, and execution for seminars and vocational programs with **260+ participants**.
-* **Financial Governance:** Administered departmental student activity budgets with transparent audit records.
-* **Technical Facilitation:** Coordinated student participation in an intensive 15-day industry workshop on *Java Development with Generative AI*.
+* **Academic Operations:** Main liaison for 80+ AIML undergraduates, managing schedules and escalations.
+* **Events & Budgeting:** Led logistics for seminars serving **260+ participants** and managed activity budgets.
+* **Technical Facilitation:** Coordinated a 15-day industry workshop on *Java & GenAI Development*.
 
-`Leadership` `Academic Operations` `Event Administration` `Logistics`
-
+`Leadership` · `Operations` · `Event Management`
 ---
 
 ## 🏆 Achievements
 
-<div align="center">
-
 | Recognition | Details |
-| :--- | :--- |
-| **NPTEL Elite + Silver Certificate** | Ranked in **Top 5% nationally** (79% score) among 20,403 certified candidates in *The Joy of Computing using Python* (IIT Madras). |
-| **MHT-CET State Top Rank** | Scored **89.92 Percentile**, placing in the Top 3% state-wide across Maharashtra. |
-| **JEE Main Percentile** | Achieved **81.11 Percentile** in national engineering entrance examination. |
-| **CSS Showdown Distinction** | Recognized for frontend engineering and UI execution in ACM Student Chapter competition. |
-| **Large-Scale Operations Leadership** | Administered digital infrastructure and logistics for a **260+ participant** technical training program. |
-
-</div>
-
+| --- | --- |
+| **NPTEL Elite + Silver** | Top 5% (79%) among 20k+ candidates in *Python* (IIT Madras) |
+| **MHT-CET** | **89.92 Percentile** (Top 3% in Maharashtra) |
+| **JEE Main** | **81.11 Percentile** |
+| **CSS Showdown** | Frontend/UI distinction in ACM competition |
+| **Operations Lead** | Managed digital infra & logistics for 260+ participants |
 ---
 
 ## 📊 GitHub Analytics
