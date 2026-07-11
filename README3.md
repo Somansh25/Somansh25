@@ -81,13 +81,12 @@ Full-Stack Developer & CS (AI/ML) undergrad at YCCE, Nagpur. Building scalable w
 
 ## 🧠 AI / ML Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Proficiency | Highlights |
 | :--- | :--- | :--- |
-| **Generative AI Integration** | Advanced | Designing generative agent workflows, prompt optimization frameworks, and Java-integrated GenAI applications. |
-| **Predictive Modeling & ML** | Intermediate | Time-series forecasting (LSTM, CNN, Random Forest), financial econometrics, and automated data pipelines. |
-| **Data Structures & Algorithms** | Advanced | Computational problem-solving, algorithm optimization, and object-oriented design in C++, Java, and Python. |
-| **Data Analytics & Processing** | Intermediate | Statistical modeling, dataset preprocessing, and automated visual analytics using Python data libraries. |
-
+| **Generative AI** | Advanced | Agent workflows, prompt engineering, Java-GenAI integration |
+| **Predictive ML** | Intermediate | Time-series (LSTM, CNN, Random Forest), econometrics, pipelines |
+| **Data Structures & Algo** | Advanced | Algorithm optimization, problem-solving, OOP (C++, Java, Python) |
+| **Data Analytics** | Intermediate | Statistical modeling, preprocessing, visual analytics |
 ---
 
 ## 🚀 Featured Projects
