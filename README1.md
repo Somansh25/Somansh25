@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Header Banner -->
   <a href="https://github.com/Somansh25">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=0f0c20&custom_color_2=5c108c&height=200&section=header&text=Hello!%20I'm%20Somansh%20Chauhan&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=twinkling" width="100%" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=0f0c20&custom_color_2=5c108c&height=200&section=header&text=Hello!%20I'm%20Somansh%20&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=twinkling" width="100%" alt="Header Banner" />
   </a>
 
   <br/>
@@ -20,7 +20,6 @@
   <br/><br/>
 
   <!-- Quick Contact Badges -->
-  <a href="https://github.com/Somansh25"><img src="https://img.shields.io/badge/Portfolio-Visit%20Platform-3C096C?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/somanshchauhan"><img src="https://img.shields.io/badge/LinkedIn-Somansh%20Chauhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:somanshch875@gmail.com"><img src="https://img.shields.io/badge/Email-somanshch875%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Somansh25"><img src="https://img.shields.io/badge/GitHub-Somansh25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -28,9 +27,6 @@
   <br/><br/>
 
   <!-- Metrics Badges -->
-  <img src="https://komarev.com/ghpvc/?username=Somansh25&color=7b2cbf&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Somansh25?style=for-the-badge&color=9d4edd&label=FOLLOWERS" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Somansh25?style=for-the-badge&color=c77dff&label=STARS" alt="Stars"/>
 </div>
 
 ---
@@ -225,62 +221,12 @@ Developed modular procedural logic in C++ with dynamic win/loss checks, duplicat
 
 ---
 
-## 📜 Certifications
-
-### AWS
-* ![](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Oracle
-* ![](https://img.shields.io/badge/Oracle-Java%20SE%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### NPTEL
-* ![](https://img.shields.io/badge/NPTEL-Elite%20Silver%20--%20Computing%20Using%20Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white)
-
-### Cisco
-* ![](https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-## ⚡ Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
-  <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Somansh25&show_icons=true&theme=tokyonight&title_color=9d4edd&icon_color=c77dff&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Somansh25&layout=compact&theme=tokyonight&title_color=9d4edd&icon_color=c77dff&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Somansh25&theme=tokyonight&margin-w=15&row=1&column=6&no-bg=true" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Somansh25&bg_color=00000000&color=9d4edd&line=c77dff&point=e0aaff&area=true&hide_border=true" alt="Contribution Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Somansh25/Somansh25/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
 </p>
 
 ---
