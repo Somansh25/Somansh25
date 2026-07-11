@@ -13,14 +13,7 @@
 
   <br/><br/>
 
-  <!-- Academic & Location Badges -->
-  <img src="https://img.shields.io/badge/Academic-B.Tech%20CSE%20(AI%26ML)%20%7C%20YCCE%20Nagpur-7B2CBF?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Nagpur%20%2F%20Gondia%2C%20MH%2C%20India-5C108C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
-
-  <br/><br/>
-
   <!-- Quick Contact Links -->
-  <a href="https://github.com/Somansh25"><img src="https://img.shields.io/badge/Portfolio-Visit%20Platform-3C096C?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/somanshchauhan"><img src="https://img.shields.io/badge/LinkedIn-Somansh%20Chauhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:somanshch875@gmail.com"><img src="https://img.shields.io/badge/Email-somanshch875%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Somansh25"><img src="https://img.shields.io/badge/GitHub-Somansh25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
