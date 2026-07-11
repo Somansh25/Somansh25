@@ -28,22 +28,22 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-Full-Stack Software Engineer and **Computer Science (AI & ML)** undergraduate student at **Yeshwantrao Chavan College of Engineering (YCCE), Nagpur**. Specialized in engineering production-ready web platforms, high-throughput REST backend services, and applied artificial intelligence models.
+Full-Stack Developer & CS (AI/ML) undergrad at YCCE, Nagpur. Building scalable web apps & applied AI models.
 
-* 🔭 **Currently Building:** **SparkMarg** (AI-driven career simulation platform) alongside intelligent web software **Cyphra**, **GridNexus**, and **CaptionNexus**
-* 🌱 **Currently Deepening:** Deep Learning architectures (LSTM, CNN), predictive financial econometrics, and scalable microservice design
-* ⚡ **Engineering Core:** Bridging full-stack development (React.js, Flask, MySQL) with machine learning pipelines and clean state architecture
-* 🏛️ **Leadership & Impact:** Serving as **Class Representative (CR)** for the AIML department, directing academic coordination for 80+ peers and managing technical events for 260+ attendees
+* **Currently Building:** AI-driven web applications & predictive models
+* **Currently Deepening:** Deep Learning (CNN/LSTM), microservice architecture, and financial econometrics
+* **Engineering Core:** Flask, MySQL, Python, and ML pipelines
+* **Leadership:** AIML Class Rep (80+ peers) & Tech Event Lead (260+ attendees)
 
-> **Open To:** Enterprise Software Engineering Internships (Full-Stack / AI & ML), High-Impact Open-Source Collaborations, and System Architecture Projects.
+> **Open To:** Full-Stack / AI-ML Internships & System Architecture Projects
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages & Web Frameworks
+###  Languages & Web Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -59,7 +59,7 @@ Full-Stack Software Engineer and **Computer Science (AI & ML)** undergraduate st
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### ⚙️ Databases, Cloud & Tooling
+###  Databases, Cloud & Tooling
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -70,7 +70,7 @@ Full-Stack Software Engineer and **Computer Science (AI & ML)** undergraduate st
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-### 🧰 Skill Matrix
+###  Skill Matrix
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,java,js,php,html,css,react,bootstrap,flask,fastapi,mysql,mongodb,git,github,vscode,linux&theme=dark" alt="Skill Icons" />
