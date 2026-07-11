@@ -251,3 +251,15 @@ status:
   open_to:
     - Software Engineering Internships (Full-Stack / AI & ML)
     - High-Impact Open Source Collaborations
+```
+---
+
+### Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
+
+---
+
+<p align="center"><i> From <a href="https://github.com/Somansh25">Somansh25</a></i></p> 
