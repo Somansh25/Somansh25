@@ -79,7 +79,7 @@ Full-Stack Developer & CS (AI/ML) undergrad at YCCE, Nagpur. Building scalable w
 
 ---
 
-## 🧠 AI / ML Expertise
+## AI / ML Expertise
 
 | Domain | Proficiency | Highlights |
 | :--- | :--- | :--- |
@@ -89,19 +89,19 @@ Full-Stack Developer & CS (AI/ML) undergrad at YCCE, Nagpur. Building scalable w
 | **Data Analytics** | Intermediate | Statistical modeling, preprocessing, visual analytics |
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details>
-<summary><b>🔥 SparkMarg — Full-Stack Career Simulation Platform</b></summary>
+<summary><b> SparkMarg — Full-Stack Career Simulation Platform</b></summary>
 
-Interactive engine enabling candidates to test-drive professional workflows via task-based prototypes.
+An interactive engine enabling candidates to test-drive professional workflows via task-based prototypes.
 * **Tech Stack:** React.js, Python (Flask), SQL, Bootstrap
 * **Highlights:** Sub-second REST API response times, safe state flow, modular dark-mode UI.
 * **Repository:** [`Somansh25/SparkMarg`](https://github.com/Somansh25)
 </details>
 
 <details>
-<summary><b>💬 Cyphra — Conversational AI Platform</b></summary>
+<summary><b> Cyphra — Conversational AI Platform</b></summary>
 
 Real-time dialogue platform with structured state control and streaming UI.
 * **Tech Stack:** React.js, Python (Flask), REST API, CSS3
@@ -110,7 +110,7 @@ Real-time dialogue platform with structured state control and streaming UI.
 </details>
 
 <details>
-<summary><b>🎮 GridNexus — AI Matrix Strategy Engine</b></summary>
+<summary><b> GridNexus — AI Matrix Strategy Engine</b></summary>
 
 Matrix strategy platform (3x3 to 9x9) with adaptive AI opponents and achievement tracking.
 * **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), AI Algorithms
@@ -119,7 +119,7 @@ Matrix strategy platform (3x3 to 9x9) with adaptive AI opponents and achievement
 </details>
 
 <details>
-<summary><b>🖼️ CaptionNexus — AI Media Captioning Engine</b></summary>
+<summary><b> CaptionNexus — AI Media Captioning Engine</b></summary>
 
 Computer vision & NLP microservice that generates context descriptions and accessibility tags.
 * **Tech Stack:** Python, PyTorch, Flask, REST API
@@ -128,7 +128,7 @@ Computer vision & NLP microservice that generates context descriptions and acces
 </details>
 
 <details>
-<summary><b>🎬 Anidrift — Media Distribution Frontend</b></summary>
+<summary><b> Anidrift — Media Distribution Frontend</b></summary>
 
 Content gallery engineered with dynamic asset filtering and responsive grid architecture.
 * **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), Bootstrap
@@ -137,7 +137,7 @@ Content gallery engineered with dynamic asset filtering and responsive grid arch
 </details>
 
 <details>
-<summary><b>🕹️ Hangman Game — Console C++ Engine</b></summary>
+<summary><b> Hangman Game — Console C++ Engine</b></summary>
 
 Terminal application featuring 6-stage progressive ASCII art rendering and input verification.
 * **Tech Stack:** C++, STL
@@ -147,7 +147,7 @@ Terminal application featuring 6-stage progressive ASCII art rendering and input
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Class Representative & Departmental Liaison
 **YCCE, Nagpur — AIML Department** | *2026 – Present*
@@ -159,7 +159,7 @@ Terminal application featuring 6-stage progressive ASCII art rendering and input
 `Leadership` · `Operations` · `Event Management`
 ---
 
-## 🏆 Achievements
+## Achievements
 
 | Recognition | Details |
 | --- | --- |
@@ -170,7 +170,7 @@ Terminal application featuring 6-stage progressive ASCII art rendering and input
 | **Operations Lead** | Managed digital infra & logistics for 260+ participants |
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Somansh25&show_icons=true&theme=tokyonight&title_color=9d4edd&icon_color=c77dff&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
@@ -179,7 +179,7 @@ Terminal application featuring 6-stage progressive ASCII art rendering and input
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Somansh25&bg_color=00000000&color=9d4edd&line=c77dff&point=e0aaff&area=true&hide_border=true" alt="Contribution Activity Graph" />
@@ -187,22 +187,13 @@ Terminal application featuring 6-stage progressive ASCII art rendering and input
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
-status:
-  learning:
-    - Deep Learning Models (LSTM, CNN) & Financial Econometrics
-    - Enterprise Distributed Microservices & Systems Design
-  building:
-    - SparkMarg: AI-Driven Interactive Career Simulation Platform
-    - Cyphra, GridNexus, & CaptionNexus Applications
-  exploring:
-    - Generative AI Integration & Agentic Workflows
-    - Cloud Infrastructure & Deployment Pipelines
-  open_to:
-    - Software Engineering Internships (Full-Stack / AI & ML)
-    - High-Impact Open Source Collaborations
+learning: [DL (LSTM/CNN), Financial Econometrics, System Design]
+building: [SparkMarg (AI Sim), Cyphra, GridNexus, CaptionNexus]
+exploring: [GenAI & Agents, Cloud Infra]
+open_to:  [SWE Internships (Full-Stack / AI-ML), Open Source]
 ```
 ---
 
