@@ -66,7 +66,7 @@ Full-Stack Developer & CS (AI/ML) undergrad at YCCE, Nagpur. Building scalable w
 ###  Skill Matrix
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,java,js,php,html,css,react,bootstrap,flask,fastapi,mysql,mongodb,git,github,vscode,linux&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,js,php,html,css,bootstrap,flask,fastapi,mysql,mongodb,git,github,vscode,linux&theme=dark" alt="Skill Icons" />
   </a>
 </p>
 
