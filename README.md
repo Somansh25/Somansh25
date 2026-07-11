@@ -8,14 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=760&height=44&lines=AI%2FML%20Enthusiast%20%26%20Full-Stack%20Developer;Transforming%20coffee%20%26%20algorithms%20into%20clean%20code" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 
 Computer Science student specializing in AI/ML. Passionate about building smart web applications, exploring predictive models, and turning complex ideas into clean, efficient code.
 
-🔭 &nbsp;I'm currently working on **AI-driven web applications &amp; predictive models**  
-🌱 &nbsp;I'm currently learning **Deep Learning architectures, LSTM models, and advanced neural networks**
+ &nbsp;I'm currently working on **AI-driven web applications &amp; predictive models**  
+ &nbsp;I'm currently learning **Deep Learning architectures, LSTM models, and advanced neural networks**
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -39,31 +39,31 @@ Computer Science student specializing in AI/ML. Passionate about building smart 
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/somanshchauhan/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:somanshch875@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Somansh25&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Somansh25&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Somansh25&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+### Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Somansh25">Somansh25</a></i></p>
+<p align="center"><i> From <a href="https://github.com/Somansh25">Somansh25</a></i></p>
