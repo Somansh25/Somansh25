@@ -92,97 +92,57 @@ Full-Stack Developer & CS (AI/ML) undergrad at YCCE, Nagpur. Building scalable w
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔥 SparkMarg - Full-Stack Career Simulation Platform</b></summary>
-<br/>
+<summary><b>🔥 SparkMarg — Full-Stack Career Simulation Platform</b></summary>
 
-**Description:** An interactive "Career Test Drive" engine enabling candidates to simulate real-world professional role workflows via task-based prototypes.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| React.js, Python (Flask), SQL, Bootstrap | Interactive role simulation engine | Sub-second REST API response times | Endpoint parameter sanitization & safe state flow | Replaces static career guidance with active workflow simulation | [`Somansh25/SparkMarg`](https://github.com/Somansh25) |
-
-**Architectural Overview:**
-Designed an end-to-end web application linking a React.js client frontend with a Python Flask REST API backend and SQL persistence layer. Built modular component architecture with custom dark-mode styling targeting deployable production MVP.
+Interactive engine enabling candidates to test-drive professional workflows via task-based prototypes.
+* **Tech Stack:** React.js, Python (Flask), SQL, Bootstrap
+* **Highlights:** Sub-second REST API response times, safe state flow, modular dark-mode UI.
+* **Repository:** [`Somansh25/SparkMarg`](https://github.com/Somansh25)
 </details>
 
-<br/>
-
 <details>
-<summary><b>💬 Cyphra - Advanced Conversational AI Platform</b></summary>
-<br/>
+<summary><b>💬 Cyphra — Conversational AI Platform</b></summary>
 
-**Description:** A conversational AI web platform featuring structured state control, fluid navigation, and responsive real-time dialogue interfaces.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| React.js, Python (Flask), REST API, CSS3 | Multi-session real-time dialogue interface | Low-latency streaming responses & state sync | Session token verification & payload validation | Delivers an intuitive, dark-themed conversational UX | [`Somansh25/Cyphra`](https://github.com/Somansh25) |
-
-**Architectural Overview:**
-Engineered responsive client-side state handling and UI layout systems to ensure smooth conversational streaming, view transitions, and cross-device interface parity.
+Real-time dialogue platform with structured state control and streaming UI.
+* **Tech Stack:** React.js, Python (Flask), REST API, CSS3
+* **Highlights:** Low-latency streaming, session token verification, responsive dark-themed UX.
+* **Repository:** [`Somansh25/Cyphra`](https://github.com/Somansh25)
 </details>
 
-<br/>
-
 <details>
-<summary><b>🎮 GridNexus - AI-Powered Matrix Strategy Platform</b></summary>
-<br/>
+<summary><b>🎮 GridNexus — AI Matrix Strategy Engine</b></summary>
 
-**Description:** An AI-driven grid strategy platform featuring multiple game variants including Classic 3x3, 5x5 Matrix, and 9x9 Ultimate Nexus with adaptive AI opponents and achievement tracking.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| HTML5, CSS3, JavaScript (ES6+), AI Algorithms | Multi-level matrix engine (3x3, 5x5, 9x9) | Zero-latency DOM updates and instant decision cycles | Client-side state machine preventing illegal moves | Enhances grid strategy gameplay with adaptive heuristic difficulty | [`Somansh25/GridNexus`](https://github.com/Somansh25) |
-
-**Architectural Overview:**
-Constructed modular JavaScript game logic supporting local multiplayer execution, progressive achievement badges, and heuristic AI move optimization wrapped in an enterprise dark design.
+Matrix strategy platform (3x3 to 9x9) with adaptive AI opponents and achievement tracking.
+* **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), AI Algorithms
+* **Highlights:** Zero-latency DOM updates, robust state machine, local multiplayer support.
+* **Repository:** [`Somansh25/GridNexus`](https://github.com/Somansh25)
 </details>
 
-<br/>
-
 <details>
-<summary><b>🖼️ CaptionNexus - AI Intelligent Media Captioning Engine</b></summary>
-<br/>
+<summary><b>🖼️ CaptionNexus — AI Media Captioning Engine</b></summary>
 
-**Description:** An automated computer vision and NLP microservice that analyzes visual asset features to generate structured context descriptions and text captions.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, PyTorch / ML Models, Flask, REST API | Automated image batch processing engine | Fast model inference and lightweight pipeline processing | Payload validation and sanitized file uploads | Automates metadata generation and image accessibility tagging | [`Somansh25/CaptionNexus`](https://github.com/Somansh25) |
-
-**Architectural Overview:**
-Integrated vision-language deep learning models into a Flask microservice, enabling automatic generation of descriptive captions and metadata tagging for uploaded media files.
+Computer vision & NLP microservice that generates context descriptions and accessibility tags.
+* **Tech Stack:** Python, PyTorch, Flask, REST API
+* **Highlights:** Deep learning model inference, automated batch processing, payload validation.
+* **Repository:** [`Somansh25/CaptionNexus`](https://github.com/Somansh25)
 </details>
 
-<br/>
-
 <details>
-<summary><b>🎬 Anidrift - Scalable Media Distribution Frontend</b></summary>
-<br/>
+<summary><b>🎬 Anidrift — Media Distribution Frontend</b></summary>
 
-**Description:** A content-heavy media display gallery engineered with adaptive layout systems and client-side media filtering.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| HTML5, CSS3, JavaScript (ES6+), Bootstrap | Multi-device layout adapting across all viewports | Optimized browser asset rendering | Safe DOM parsing & sanitized event parameters | Smooth visual browsing experience across high-density media catalogs | [`Somansh25/Anidrift`](https://github.com/Somansh25) |
-
-**Architectural Overview:**
-Engineered responsive fluid grid layout architectures. Implemented client-side JavaScript event handling for real-time dynamic content filtering and high-performance DOM manipulation.
+Content gallery engineered with dynamic asset filtering and responsive grid architecture.
+* **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), Bootstrap
+* **Highlights:** High-density asset rendering, smooth view transitions, sanitized DOM events.
+* **Repository:** [`Somansh25/Anidrift`](https://github.com/Somansh25)
 </details>
 
-<br/>
-
 <details>
-<summary><b>🕹️ Hangman Game - Console-Based Word Game in C++</b></summary>
-<br/>
+<summary><b>🕹️ Hangman Game — Console C++ Engine</b></summary>
 
-**Description:** A modular terminal application featuring 6-stage progressive ASCII art rendering and strict input verification.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| C++, STL, Strings & Arrays | Lightweight binary execution | Immediate execution with minimal memory footprint | Buffer overflow prevention & strict char validation | Direct demonstration of applied DSA and procedural C++ logic | [`Somansh25/Hangman-CPP`](https://github.com/Somansh25) |
-
-**Architectural Overview:**
-Developed modular procedural logic in C++ with dynamic win/loss checks, duplicate guess tracking, case-insensitive logic, and non-alphabetic character rejection.
+Terminal application featuring 6-stage progressive ASCII art rendering and input verification.
+* **Tech Stack:** C++, STL
+* **Highlights:** Minimal memory footprint, procedural DSA logic, buffer overflow prevention.
+* **Repository:** [`Somansh25/Hangman-CPP`](https://github.com/Somansh25)
 </details>
 
 ---
